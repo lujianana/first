@@ -9,13 +9,13 @@
    
      brand: 'Apple',
       
-  image: 'http://ordfm6aah.bkt.clouddn.com/shop/1.jpeg',
+     image: 'shopping-image/1.jpeg',
   
-      sales: 10000,
+     sales: 10000,
      
-   cost: 1288,
+     cost: 1288,
      
-   color: '白色'
+     color: '白色'
  
    },
     
@@ -27,7 +27,7 @@
      
    brand: 'Beats',
       
-  image: 'http://ordfm6aah.bkt.clouddn.com/shop/2.jpeg',
+  image: 'shopping-image/2.jpg',
   
       sales: 11000,
         cost: 1188,
@@ -43,7 +43,7 @@ id: 3,
  
        brand: 'Beats',
   
-      image: 'http://ordfm6aah.bkt.clouddn.com/shop/3.jpeg',
+      image: 'shopping-image/3.jpg',
     
     sales: 5000,
        
@@ -61,7 +61,7 @@ id: 3,
  
        brand: 'Beats',
   
-      image: 'http://ordfm6aah.bkt.clouddn.com/shop/4.jpeg',
+      image:'shopping-image/4.jpeg' ,
     
     sales: 3000,
     
@@ -79,7 +79,7 @@ id: 3,
     
     brand: 'Sonos',
        
- image: 'http://ordfm6aah.bkt.clouddn.com/shop/5.jpeg',
+ image: 'shopping-image/5.jpeg',
     
     sales: 8000,
         cost: 1578,
@@ -95,7 +95,7 @@ id: 3,
    
      brand: 'Beats',
    
-     image: 'http://ordfm6aah.bkt.clouddn.com/shop/6.jpeg',
+     image: 'shopping-image/6.jpg',
     
     sales: 12000,
   
@@ -113,7 +113,7 @@ id: 3,
   
       brand: 'Beats',
        
- image: 'http://ordfm6aah.bkt.clouddn.com/shop/7.jpeg',
+ image: 'shopping-image/7.jpeg',
   
       sales: 25000,
        
@@ -131,7 +131,7 @@ id: 3,
      
    brand: 'B&O',
        
- image: 'http://ordfm6aah.bkt.clouddn.com/shop/8.jpeg',
+ image: 'shopping-image/8.jpeg',
     
     sales: 15000,
    
@@ -149,7 +149,7 @@ id: 3,
      
    brand: 'Bose',
   
-      image: 'http://ordfm6aah.bkt.clouddn.com/shop/9.jpeg',
+      image: 'shopping-image/9.jpeg',
     
     sales: 14000,
     
@@ -167,7 +167,7 @@ id: 3,
      
    brand: 'B&O',
        
- image: 'http://ordfm6aah.bkt.clouddn.com/shop/10.jpeg',
+ image: 'shopping-image/10.jpeg',
       
   sales: 9000,
         
